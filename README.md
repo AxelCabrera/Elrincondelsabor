@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title> El rincon de Pascua </title>
