@@ -21,7 +21,7 @@
 		    		<article class="body animated fadeInDown">
 			    		<header class="text-center">
 				    		<img src="./imagenes/logo.jpg" height="200">
-							<h1 class="red-text signika title threeD">EL rincón de Pascua</h1>
+							<h1 class="red-text signika title threeD">EL rincón del Sabor</h1>
 							<h3>Delicioso y al alcance de todos</h3>
 						</header>
 					</article>
