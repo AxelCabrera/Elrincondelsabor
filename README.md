@@ -20,7 +20,7 @@
 		    		</header>
 		    		<article class="body animated fadeInDown">
 			    		<header class="text-center">
-				    		<img src="./imagenes/logo.jpg" height="200">
+				    		<img src="./imagenes/logo.png" height="200">
 							<h1 class="red-text signika title threeD">EL rincón del Sabor</h1>
 							<h3>Comida criolla con sazón casero</h3>
 						</header>
