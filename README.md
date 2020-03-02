@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> El rincon de </title>
+	<title> El rincon de Pascua </title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="./css/styles.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css">
