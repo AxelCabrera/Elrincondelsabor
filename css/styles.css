@@ -84,42 +84,30 @@ body{
 	z-index: 1;
 }
 
-
-#menu ul {
-    list-style:none;
-    margin:0;
-    padding:0;
+ul, ol{
+	list-style:none;
 }
 
-#menu ul li {
-    position:relative;
-    float:left;
-    margin:0;
-    padding:0;
+.nav > li{
+	float:left;
 }
 
-#menu ul li:hover {
-    background:#5b78a7;
+.nav li ul{
+	display: none;
+	position: absolute;
+	min-width: 140px;
 }
 
-#menu ul ul {
-    display:none;
-    position:absolute;
-    top:100%;
-    left:0;
-    padding:0;
+.nav li:hover > ul{
+	display: block:
 }
 
-#menu ul ul li {
-    float:none;
-    width:150px
+.nav li ul li{
+	position: relative;
 }
 
-#menu ul ul a {
-    line-height:120%;
-    padding:10px 15px;
+.nav li ul li ul{
+	right: -140px;
+	top: 0px;
 }
-
-#menu ul li:hover > ul {
-    display:block;
-}
+	
