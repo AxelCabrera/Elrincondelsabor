@@ -1,5 +1,22 @@
 <!DOCTYPE html>
 <html>
+<style>
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+</style>
 <head>
 	<title> El rincon del Sabor </title>
 	<meta charset="utf-8">
@@ -16,7 +33,10 @@
 					<header class="main-header">
 			    			<nav class="main-nav">
 							<a href="inicio.html" class="nav-link" >Inicio</a>
-							<a href="menu.html" class="nav-link">Menu</a>	
+							<a href="menu.html" class="nav-link">Menu</a>
+							<div class="dropdown-content">
+								<a href="placeholder.html" class="nav-link">placeholder</a>
+							</div>
 							<a href="contacto.html" class="nav-link">Contacto</a>
 			    			</nav>
 		    			</header>
