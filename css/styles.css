@@ -122,3 +122,7 @@ body{
 .dropdown:hover .dropbtn {
     background-color: #34495E;
 }
+
+.p a{
+	color: black;
+}
