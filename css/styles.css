@@ -123,6 +123,6 @@ body{
     background-color: #34495E;
 }
 
-.p a{
-	color: black;
+.nav-link p{
+	color: black; 
 }
